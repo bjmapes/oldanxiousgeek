@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+title: "Old Anxious Geek"
+author: "Old Anxious Geek"
+description: "A older millennial geek figting anxiety. Father of 2. Lover of comics, sports, and wrestling."
 permalink: /:title/
 lang: "en"
 date_format: "%B %d, %Y"
@@ -22,12 +22,14 @@ minimal: false               # minima-inspired style without box-shadows
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+ # - {file: "README.md", icon: address-card}
+ # - {file: "about.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:oldanxiousgeek@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/oldanxiousgeek", target: _blank }
+  - {title: Facebook, icon: facebook, url: "https://facebook.com/oldanxiousgeek@gmail", target: _blank}
+  - {title: RSS, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus: ""                # see https://disqus.com/
